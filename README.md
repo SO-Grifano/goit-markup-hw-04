@@ -1,8 +1,8 @@
-# GoIT: Homework 03
+# GoIT: Homework 04
 
 ![GoIT logo on orange background](https://goit.global/mx/assets/images/logo-goit.svg)
 
-## Modules 3: Box Model. Flexbox
+## Modules 4: Decorative Effects
 
 ## Acknowledgments
 
