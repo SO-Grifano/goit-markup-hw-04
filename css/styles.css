@@ -366,6 +366,7 @@ button:focus {
 }
 .container.is-footer {
   display: flex;
+  align-items: baseline;
 }
 .footer_col.has-padding-right {
   margin-right: 120px;
@@ -377,6 +378,9 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+}
+.footer .social_list {
+  gap: 16px;
 }
 .footer .main-logo {
   display: inline-block;
