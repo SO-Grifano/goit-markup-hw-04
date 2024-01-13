@@ -147,7 +147,8 @@ address a:focus {
 }
 /* Section - Hero */
 .section-hero {
-  max-width: 1440px; /*? Не розумію для чого ми це робимо? Так вимагає перевірка, але це не правельно адже тепер секція на більших екранах обрізаеться*/
+  max-width: 1440px;
+  margin: 0 auto;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
